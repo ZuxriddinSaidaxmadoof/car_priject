@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3,
+    "full_name": "S O",
+    "login": "a",
+    "balance": 1000
+  },
+  {
+    "id": 4,
+    "full_name": "Y P",
+    "login": "u"
+  },
+  {
+    "id": 5,
+    "full_name": "M I",
+    "login": "m"
+  },
+  {
+    "id": 6,
+    "full_name": "M II",
+    "login": "i"
+  }
+]
